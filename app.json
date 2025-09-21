@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Demo3",
-    "slug": "Demo3",
+    "name": "TextInput",
+    "slug": "TextInput",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
